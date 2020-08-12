@@ -6,8 +6,8 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				main: "#ad46a8",
-				secondary: "#ec509a",
+				main: "#303030",
+				secondary: "#fed700",
 			},
 			fontFamily: {
 				body: ["Lobster Two", "cursive"],
